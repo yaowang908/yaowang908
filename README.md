@@ -26,6 +26,4 @@
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaowang908&layout=compact)](https://github.com/yaowang908)
 
-![Yao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaowang908&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 </div>
