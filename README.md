@@ -11,6 +11,7 @@ A Front-end wizard 🧙‍♂️ with a knack for creating things for the web.
 - [My React Calendar](https://github.com/yaowang908/my-react-calendar)
 - [React Adaptable Carousel](https://github.com/yaowang908/react-adaptable-carousel)
 - [2048](https://github.com/yaowang908/2048)
+- [Past-bin-clone](https://github.com/yaowang908/paste_bin_clone)
 
 ## Analysis
 
