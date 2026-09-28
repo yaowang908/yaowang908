@@ -4,14 +4,7 @@ A Front-end wizard 🧙‍♂️ with a knack for creating things for the web.
 
 ## Projects
 
-- [TS-to-mp4](https://github.com/yaowang908/ts-to-mp4)
 - [Sudoku helper](https://github.com/yaowang908/sudoku-helper)
-- [New Tab (chrome extention)](https://github.com/yaowang908/chrome-extension-newtab)
-- [Time Zone Organizer](https://github.com/yaowang908/time-zone-organizer)
-- [2048](https://github.com/yaowang908/2048)
-- [Past-bin-clone](https://github.com/yaowang908/paste_bin_clone)
+- [Solo](https://github.com/yaowang908/solo-macos)
 
-## Analysis
-
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaowang908&layout=compact)](https://github.com/yaowang908)
 
